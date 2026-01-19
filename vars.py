@@ -2,8 +2,8 @@ import os
 from os import environ
 
 # API Configuration
-API_ID = int(os.environ.get("API_ID", "29956811"))
-API_HASH = os.environ.get("API_HASH", "2b89f200b7ec9eeb1fb22ce46e15688c")
+API_ID = int(os.environ.get("API_ID", "25136601"))
+API_HASH = os.environ.get("API_HASH", "10f22e141e84fa06ce4b9f81e1cb49ff")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 CREDIT = os.environ.get("CREDIT", "⌯ Prunus💋 | ×͜× |")
@@ -59,6 +59,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
